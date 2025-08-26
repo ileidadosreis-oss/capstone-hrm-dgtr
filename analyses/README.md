@@ -11,7 +11,7 @@ Each graph visually translates the key points of the study.
 **Description:**  
 Shows the percentage distribution of the team's main motivators (purpose, recognition, learning, and appreciation).  
 
-![Motivators Chart](motivators.png)
+![Motivators Chart](motivadores.png.jpg)
 
 ---
 
@@ -19,7 +19,7 @@ Shows the percentage distribution of the team's main motivators (purpose, recogn
 **Description:**  
 Comparison of internal pressures (e.g., budget, lack of resources, performance evaluation) and external pressures (e.g., accident rates, international organizations, technology).  
 
-![Influences Chart](analyses/internal_vs_external_influences.png)
+![Influences Chart](analyses/influencias_internas_vs_externas.png.jpg)
 
 ---
 
