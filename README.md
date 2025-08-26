@@ -4,7 +4,7 @@ Alinhamento Estratégico de RH em Contextos Públicos: O Caso da Segurança Rodo
 
 ---
 
-## 📖 Descrição do Projeto
+## Descrição do Projeto
 Este repositório apresenta o projeto de **Capstone em Gestão de Recursos Humanos (HRM)**, com foco no alinhamento estratégico em contextos públicos, tomando como caso de estudo a **Direção-Geral de Trânsito e Segurança Rodoviária (DGTR)**.
 
 O projeto inclui:
@@ -39,7 +39,7 @@ O projeto inclui:
 
 ---
 
-## 📌 Conclusão e Insights
+## Conclusão e Insights
 - A DGTR possui **forte motivação intrínseca** na sua equipa, mas precisa de políticas formais de RH.  
 - O **alinhamento estratégico** está em progresso, mas incompleto.  
 - Os maiores desafios estão em: **falta de técnicos especializados**, **gestão de desempenho**, **sistemas de incentivos**.  
@@ -47,6 +47,6 @@ O projeto inclui:
 
 ---
 
-## 👩‍💼 Autora
+## Autora
 **Ileida dos Reis**  
 Mestre em Gestão de Recursos Humanos | Especialista em Prevenção e Segurança Rodoviária  
