@@ -35,7 +35,7 @@ Shows the percentage split between internal and external recruitment (hybrid str
 **Description:**  
 Represents performance indicators (campaign execution, inspections, public satisfaction, interinstitutional actions) and their targets.  
 
-![KPIs Chart](Kpis_incentivos.png.jpg)`
+![KPIs Chart](kpis_incentivos.png.jpg)
 
 ---
 
