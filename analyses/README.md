@@ -27,7 +27,7 @@ Comparison of internal pressures (e.g., budget, lack of resources, performance e
 **Description:**  
 Shows the percentage split between internal and external recruitment (hybrid strategy).  
 
-![Recruitment Chart](recruitment.png.jpg)
+![Recruitment Chart](recrutamento.png.jpg)
 
 ---
 
@@ -35,7 +35,7 @@ Shows the percentage split between internal and external recruitment (hybrid str
 **Description:**  
 Represents performance indicators (campaign execution, inspections, public satisfaction, interinstitutional actions) and their targets.  
 
-![KPIs Chart](Kips_incentive.png.jpg)`
+![KPIs Chart](Kpis_incentivos.png.jpg)`
 
 ---
 
@@ -51,7 +51,7 @@ Compares the average salaries for the position analyzed in three sources: INE-CV
 **Description:**  
 Shows the deadlines (in months) for implementing actions such as updating job descriptions, defining KPIs, training managers, aligning goals, 360º feedback, and individual plans.  
 
-![Action Plan Chart](performance_management_action_plan.png)
+![Action Plan Chart](plano_acao_gestao_desempenho.png)
 
 ---
 
