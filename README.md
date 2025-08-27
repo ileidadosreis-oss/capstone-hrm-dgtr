@@ -1,52 +1,52 @@
 # 📊 Capstone Project – HRM
-**Título do Projeto:**  
-Alinhamento Estratégico de RH em Contextos Públicos: O Caso da Segurança Rodoviária na DGTR  
+**Project Title:**  
+Strategic Alignment of HR in Public Contexts: The Case of Road Safety
 
 ---
 
-## Descrição do Projeto
-Este repositório apresenta o projeto de **Capstone em Gestão de Recursos Humanos (HRM)**, com foco no alinhamento estratégico em contextos públicos, tomando como caso de estudo a **Direção-Geral de Trânsito e Segurança Rodoviária (DGTR)**.
+## Project Description
+This repository presents the **Capstone project in Human Resource Management (HRM)**, focusing on strategic alignment in public contexts, using the **Directorate General for Traffic and Road Safety** as a case study.
 
-O projeto inclui:
-- 📂 Contexto organizacional  
-- 🎯 Estratégias de recrutamento e seleção  
-- 📈 Gestão de desempenho  
-- 💰 Políticas de remuneração e incentivos  
-- 📊 Análises gráficas  
+The project includes:
+- 📂 Organizational context
+- 🎯 Recruitment and selection strategies
+- 📈 Performance management
+- 💰 Compensation and incentive policies
+- 📊 Graphical analyses
 
 ---
 
-## 📈 Análises Gráficas em Destaque
-### 1. Motivadores dos Funcionários
+## 📈 Featured Graphical Analyses
+### 1. Employee Motivators
 ![Gráfico Motivadores](analyses/motivadores.png.jpg)
 
-### 2. Influências Internas vs Externas
+### 2. Internal vs. External Influences
 ![Gráfico Influências](analyses/influencias_internas_vs_externas.png.jpg)
 
-### 3. Estratégia de Recrutamento
+### 3. Recruitment Strategy
 ![Gráfico Recrutamento](analyses/recrutamento.png.jpg)
 
-### 4. KPIs de Incentivos de Curto Prazo
+### 4. Short-Term Incentive KPIs
 ![Gráfico KPIs](analyses/kpis_incentivos.png.jpg))
 
-### 5. Benchmark de Remuneração
+### 5. Compensation Benchmark
 ![Gráfico Benchmark](analyses/benchmark_remuneracao.png.jpg)
 
-### 6. Plano de Ação – Gestão de Desempenho
+### 6. Action Plan – Performance Management
 ![Gráfico Plano de Ação](analyses/plano_acao_gestao_desempenho.png)
 
-➡️ Mais detalhes em [📂 Pasta `analyses/`](analyses/README.md)
+➡️ More details at [📂 Pasta `analyses/`](analyses/README.md)
 
 ---
 
-## Conclusão e Insights
-- A DGTR possui **forte motivação intrínseca** na sua equipa, mas precisa de políticas formais de RH.  
-- O **alinhamento estratégico** está em progresso, mas incompleto.  
-- Os maiores desafios estão em: **falta de técnicos especializados**, **gestão de desempenho**, **sistemas de incentivos**.  
-- Recomenda-se consolidar práticas de **avaliação, carreira e valorização** para transformar o compromisso dos funcionários em **engajamento sustentável**.  
+## Conclusion and Insights
+- DGTR has **strong intrinsic motivation** within its team, but needs formal HR policies.
+- **Strategic alignment** is in progress, but incomplete.  
+- The biggest challenges are: **lack of specialized technicians**, **performance management**, and **incentive systems**.  
+- It is recommended to consolidate **evaluation, career, and appreciation** practices to transform employee commitment into **sustainable engagement**.
 
 ---
 
-## Autora
+## Author
 **Ileida dos Reis**  
-Mestre em Gestão de Recursos Humanos | Especialista em Prevenção e Segurança Rodoviária  
+Master's Degree in Human Resources Management
